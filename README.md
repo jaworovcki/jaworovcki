@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi there, I'm Andew from Ukraine 👋
 
-<!--
-**jaworovcki/jaworovcki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 I'm **co-founder** and **full-stack** engineer @ [Spohady](https://www.spohady.com/). I have a great experience in e-commerce and data storage domains. Also, I am passionate about Azure, I obtain a lot of experience with Azure App Services, Blob Storage, Azure AI tools.
 
-Here are some ideas to get you started:
+🚀 My mission is to provide **engineering excellence** focused on proper architecture and the best agile practices, delivering high-quality products, working closely with customers and developing software products on different platforms.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💬 Ask me about Software Architecture, Cloud computing (Azure), C#/.NET, Databases, DevOps, Agile methods, People, Coaching, Organizations, Productivity. 
+
+![Spohady](spohady.png)
+
+📫 How to reach me:
+
+* Email: andrii.yavorovskyi@gmail.com
+* LinkedIn: [yavandrii](https://www.linkedin.com/in/yavandrii/)
+* Telegram: @yavandrii
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaworovcki)](https://github.com/anuraghazra/github-readme-stats)
+
