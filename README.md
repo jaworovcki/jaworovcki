@@ -6,7 +6,7 @@
 
 💬 Ask me about Software Architecture, Cloud computing (Azure), C#/.NET, Databases, DevOps, Agile methods, People, Coaching, Organizations, Productivity. 
 
-![Spohady](spohady.png)
+![Spohady](spohady.jpg)
 
 📫 How to reach me:
 
