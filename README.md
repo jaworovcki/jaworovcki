@@ -1,4 +1,4 @@
-## Hi there, I'm Andew from Ukraine 👋
+## Hi there, I'm Andrew from Ukraine 👋
 
 🎯 I'm **co-founder** and **full-stack** engineer @ [Spohady](https://www.spohady.com/). I have a great experience in e-commerce and data storage domains. Also, I am passionate about Azure, I obtain a lot of experience with Azure App Services, Blob Storage, Azure AI tools.
 
